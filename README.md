@@ -3,10 +3,7 @@
   <h3>Software Engineer</h3>
 </div>
 <br/>
-<!-- Flex container for text and image -->
 <div style="display: flex; align-items: center; justify-content: space-between; max-width: 900px; margin: auto; width: 100%; flex-wrap: nowrap;">
-    <!-- Text on the left -->
-    <!-- Image on the right -->
         <img align="right" src="github.png" alt="Coding" style="width: 200px; height: auto;">
         <p align="left">
           💻 <b>Full-Stack Developer</b> —  Java, Python, Spring Boot, React, Angular, Flask <br/>
@@ -15,10 +12,18 @@
           🎯 <b>Problem-Solver & Innovator</b> —  Optimizing Performance & User Experience  <br/>
           📌 <b>Actively Exploring Opportunities</b> —  Open to Collaboration & Learning  <br/>
         </p>
+       <a href="mailto:mahathibandarii@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+      </a>
+      <a href="https://www.linkedin.com/in/mahathibandari" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" onerror="this.onerror=null; this.src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png'" alt="LinkedIn"/>
+      </a>
+      <a href="https://mbandari99.github.io/portfolio/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+      </a>     
 </div>
 <br/>
 <br/>
-
 ## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
