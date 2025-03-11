@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi there <img width="25" src="https://user-images.githubusercontent.com/52720489/204301028-338c8fd7-8a9c-490f-8007-4c302c5aa0c6.gif"> I am Mahathi Bandari</h2>
-  <h3>Software Engineer</h3>
+  <h3>Software Engineer
 </div>
 <br/>
 <div style="display: flex; align-items: center; justify-content: space-between; max-width: 900px; margin: auto; width: 100%; flex-wrap: nowrap;">
